@@ -8,6 +8,7 @@ The cars we use today lack true innovation, aren't designed with a **safety-firs
 - **Safety-first** design principles.
 - 0-100 km/h (0-60 mph) in **less than 5 seconds**.
 - A range of at least **400 km** on a single charge.
+- End product should cost **less than $40K**.
 - **Compliance with regulations** across different countries, ensuring access to a population of **500 million people**.
 - Compatibility with **charging networks** in target markets.
 - A **modular design** that allows users to customize their car as they see fit.
