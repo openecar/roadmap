@@ -84,3 +84,16 @@ Users will be empowered to maintain their own vehicles, reducing dependency on d
 
 - **Open-Source Documentation**: Repair manuals, schematics, and diagnostic tools will be made available, so users can perform their own maintenance or find local mechanics who can help.
 - **Low Maintenance**: The car will be designed for minimal maintenance. Electric vehicles typically require less upkeep than combustion engine cars, but easily replaceable parts and accessible systems will still be prioritized.
+
+## Roadmap
+
+TODO
+
+By end of 2025:
+
+Open-Source Infrastructure Setup: Launch online community platforms to encourage external contributions and feedback.
+Initial Concept Validation: Finalize technical and design requirements (performance, safety, modularity, FSD-readiness).
+Initial Exterior and Interior Sketches: Develop rough 2D and 3D concepts for the body shape, seating configuration, dashboard layout, and display positions.
+Ergonomic Studies: Use digital human modeling tools to ensure comfort for a variety of body types and cultural preferences. Gather community feedback on early design concepts.
+Aerodynamics and Efficiency: Start basic computational fluid dynamics (CFD) simulations to guide the body shape towards aerodynamic efficiency, aiding range and performance.
+Preliminary Chassis and Powertrain Design: Develop early CAD models of the chassis and battery pack concepts. Begin simulations on structural integrity, aerodynamics, and thermal management.
